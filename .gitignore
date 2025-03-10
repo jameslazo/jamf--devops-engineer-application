@@ -1,0 +1,23 @@
+#\\\\\\\\\\\\#
+#\GIT\IGNORE\#
+#\\\\\\\\\\\\#
+
+# Whitelist policy, traverse all directories
+*
+!*/
+
+# Blacklist unwanted directories
+.terraform/
+.venv/
+.npm/
+
+# Whitelist directories/files/patterns
+!.github/**
+!.gitignore
+!*.md
+!pyproject.toml
+
+# Blacklist backup or other files caught in whitelist patterns
+*~
+*.bak
+
