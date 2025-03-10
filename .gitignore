@@ -16,6 +16,7 @@
 !.gitignore
 !*.md
 !pyproject.toml
+!requirements.txt
 
 # Blacklist backup or other files caught in whitelist patterns
 *~
