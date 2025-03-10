@@ -18,6 +18,7 @@
 !pyproject.toml
 !requirements.txt
 !*.py
+!*.png
 
 # Blacklist backup or other files caught in whitelist patterns
 *~
