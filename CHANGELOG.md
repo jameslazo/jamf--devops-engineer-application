@@ -1,6 +1,22 @@
 # CHANGELOG
 
 
+## v1.0.0 (2025-03-10)
+
+### Chores
+
+- Comment out TransitGatewayAttachment -- incompatible with v0.24.1
+  ([`ce481cd`](https://github.com/jameslazo/jamf--devops-engineer-application/commit/ce481cd65163236c4159a65ad30f6a7433e9231d))
+
+### Features
+
+- Diagram :D
+  ([`c269782`](https://github.com/jameslazo/jamf--devops-engineer-application/commit/c269782a7cbe3bec420f09df9dd83f099fca59b2))
+
+- Icons missing in diagrams 0.24.3, rolled back to 0.24.1
+  ([`d75f061`](https://github.com/jameslazo/jamf--devops-engineer-application/commit/d75f06152cb1c67e2158ef1cd945765bd701e69b))
+
+
 ## v0.1.0 (2025-03-10)
 
 ### Chores
