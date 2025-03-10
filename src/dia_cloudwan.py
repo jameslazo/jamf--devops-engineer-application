@@ -6,7 +6,7 @@ from diagrams.aws.network import DirectConnect
 from diagrams.aws.network import VpnConnection as VPN
 from diagrams.aws.general import Client
 from diagrams.aws.iot import IotGreengrassConnector
-from diagrams.aws.network import TransitGatewayAttachment
+# from diagrams.aws.network import TransitGatewayAttachment
 from diagrams.aws.iot import IotFactory
 
 
